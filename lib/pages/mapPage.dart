@@ -18,6 +18,7 @@ const double CAMERA_TILT = 80;
 const double CAMERA_BEARING = 30;
 const double PIN_VISIBLE_POSITION = 20;
 const double PIN_INVISIBLE_POSITION = -220;
+const double reema = 12;
 
 class MapPage extends StatefulWidget {
   SubCategory? subCategory;
