@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/jawnaAtwe/Graduation",
+  "homepage": "https://github.com/jawnaAtwe/Graduation/tree/master",
   "name": "Graduation",
   "scripts": {
     "start": "node jaw.js",
